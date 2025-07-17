@@ -1,1 +1,1 @@
-# projec-test2
+simple calc using python
